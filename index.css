@@ -1,0 +1,105 @@
+*{
+  padding: 1px 10px 10px 12px;
+  margin: 0;
+  font: 13px arial, verdana, sans-serif black;
+}
+#esqueda{
+  float: left;
+}
+#direita{
+  float: right ;
+  margin-top: -600px;
+}
+#cabecalho{
+  color: #FF0000;
+  background-color:#fff;
+  width: 60%;
+  float: left;
+  margin: 20 20 0 auto;
+  padding: 10px 0px 10px 10px;
+}
+#cabecalho h1{
+  font-size: 50px;
+}
+a{
+  text-decoration: none;
+  color: red;
+}
+#noticias{
+  background-color: #fff;
+ width: 70%;
+ float: left;
+ margin: 0 auto;
+ padding: 0px 0px 0px 0px;
+}
+#noticias1{
+  background-color: #fff;
+  width: 206px;
+  height: 160px;
+  margin: 5px 5px 6px 0px;
+  float: left;
+  color: red;
+}
+#noticias2{
+  background-color: #fff;
+  width: 206px;
+  height: 160px;
+  margin: 5px 5px 6px 0px;
+  float: left;
+  color: red;
+}
+#noticias3{
+  background-color: #fff;
+  width: 206px;
+  height: 160px;
+  margin: 5px 5px 6px 0px;
+  float: left;
+  color: red;
+}
+#noticias4{
+  background-color: #fff;
+  width: 206px;
+  height: 160px;
+  margin: 5px 5px 5px 0px;
+  float: left;
+  color: red;
+}
+#noticias5{
+  background-color: #fff;
+  width: 206px;
+  height: 160px;
+  margin: 5px 5px 5px 0px;
+  float: left;
+  color: red;
+}
+#noticias6{
+  background-color: #fff;
+  width: 206px;
+  height: 160px;
+  margin: 5px 5px 5px 0px;
+  float: left;
+  color: red;
+}
+#esporte{
+  background-color: #fff;
+  width: 206px;
+  height: 160px;
+  margin: 8px 0px 13px 0px;
+  float: left;
+  color: green;
+}
+
+#intreterimento{
+  background-color: #fff;
+  width: 206px;
+  height: 160px;
+  margin: 8px 10px 13px 0px;
+  float: left;
+  color: orange;
+}
+#rodape{
+  clear: both;
+}
+.red:hover{
+  color:#DF0101;
+}
