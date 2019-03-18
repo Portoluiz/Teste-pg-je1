@@ -21,7 +21,11 @@
 #cabecalho h1{
   font-size: 50px;
 }
-a{
+#noticias a{
+  text-decoration: none;
+  color: #DF0101;
+}
+#cabecalho a{
   text-decoration: none;
   color: #DF0101;
 }
