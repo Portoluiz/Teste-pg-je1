@@ -8,7 +8,7 @@
 }
 #direita{
   float: right ;
-  margin-top: -600px;
+  margin-top: -620px;
 }
 #cabecalho{
   color: #FF0000;
@@ -23,7 +23,7 @@
 }
 a{
   text-decoration: none;
-  color: red;
+  color: #DF0101;
 }
 #noticias{
   background-color: #fff;
@@ -101,5 +101,5 @@ a{
   clear: both;
 }
 .red:hover{
-  color:#DF0101;
+  color:#FE2E2E;
 }
